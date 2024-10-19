@@ -35,7 +35,6 @@ Actuellement, j'approfondis mes compétences en :
 
 - **Email** : patrick.nowak0613@gmail.com
 - **LinkedIn** : [linkedin.com/in/patrick-nowak-479503333](https://www.linkedin.com/in/patrick-nowak-479503333/)
-- **GitHub** : [github.com/votre-utilisateur](https://github.com/PatNwK)
 
 ## 💡 Objectifs de Carrière
 
