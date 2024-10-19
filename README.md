@@ -33,7 +33,7 @@ Actuellement, j'approfondis mes compétences en :
 
 ## 📫 Me Contacter
 
-- **Email** : nowakp595@gmail.com
+- **Email** : patrick.nowak0613@gmail.com
 - **LinkedIn** : [linkedin.com/in/patrick-nowak-479503333](https://www.linkedin.com/in/patrick-nowak-479503333/)
 - **GitHub** : [github.com/votre-utilisateur](https://github.com/PatNwK)
 
